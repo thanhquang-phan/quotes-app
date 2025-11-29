@@ -1,0 +1,17 @@
+{
+  "name": "Liquid Glass Quotes",
+  "short_name": "LiquidQuotes",
+  "description": "Daily inspirational quotes in a liquid glass interface.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FECFEF",
+  "theme_color": "#FECFEF",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
